@@ -26,7 +26,7 @@ define('DB_NAME', 'alibaba_inc');
 define('DB_USER', 'tonganan');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', 'De3b9c1a');
+define('DB_PASSWORD', 'alibaba-inc');
 
 /** MySQL主机 */
 define('DB_HOST', 'alibaba-inc.crlb8pnnsymu.ap-northeast-1.rds.amazonaws.com');
