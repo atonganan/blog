@@ -20,16 +20,16 @@
 
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
 /** WordPress数据库的名称 */
-define('DB_NAME', 'alibaba_inc');
+define('DB_NAME', 'tongananblog');
 
 /** MySQL数据库用户名 */
-define('DB_USER', 'tonganan');
+define('DB_USER', 'root');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', 'alibaba-inc');
+define('DB_PASSWORD', 'G7I1WyuwIbanOfXiDCrP');
 
 /** MySQL主机 */
-define('DB_HOST', 'alibaba-inc.crlb8pnnsymu.ap-northeast-1.rds.amazonaws.com');
+define('DB_HOST', '119.29.19.111');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8mb4');
