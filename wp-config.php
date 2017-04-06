@@ -29,7 +29,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', 'G7I1WyuwIbanOfXiDCrP');
 
 /** MySQL主机 */
-define('DB_HOST', '119.29.19.111');
+define('DB_HOST', 'sql.tonganan.com');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8mb4');
